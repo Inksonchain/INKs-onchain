@@ -6,7 +6,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutant"
+          "value": "dino"
         },
         {
           "trait_type": "Legs",
@@ -438,7 +438,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "roborabbit"
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
@@ -726,7 +726,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutarobot"
+          "value": "robot"
         },
         {
           "trait_type": "Legs",
@@ -846,7 +846,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutabee"
+          "value": "bee"
         },
         {
           "trait_type": "Legs",
@@ -1182,7 +1182,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutabird"
+          "value": "what"
         },
         {
           "trait_type": "Legs",
@@ -1518,7 +1518,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "dinobot"
+          "value": "dino"
         },
         {
           "trait_type": "Legs",
@@ -2214,7 +2214,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "roborabbit"
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
@@ -2310,7 +2310,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "roborabbit"
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
@@ -2382,7 +2382,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutabot"
+          "value": "robot"
         },
         {
           "trait_type": "Legs",
@@ -2598,7 +2598,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "roborabbit"
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
@@ -2982,7 +2982,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutademon"
+          "value": "demon"
         },
         {
           "trait_type": "Legs",
@@ -3222,7 +3222,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "roborabbit"
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
@@ -3270,7 +3270,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutademon"
+          "value": "demon"
         },
         {
           "trait_type": "Legs",
@@ -3582,7 +3582,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutabull"
+          "value": "bull"
         },
         {
           "trait_type": "Legs",
@@ -3606,7 +3606,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutabear"
+          "value": "bear"
         },
         {
           "trait_type": "Legs",
@@ -4086,7 +4086,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutadino"
+          "value": "dino"
         },
         {
           "trait_type": "Legs",
@@ -4494,7 +4494,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "robodog"
+          "value": "dog"
         },
         {
           "trait_type": "Legs",
@@ -4974,7 +4974,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutaphant"
+          "value": "elephant"
         },
         {
           "trait_type": "Legs",
@@ -4998,7 +4998,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "robodog"
+          "value": "dog"
         },
         {
           "trait_type": "Legs",
@@ -5238,7 +5238,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "roborabbit"
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
@@ -5598,7 +5598,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "fish"
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
@@ -5886,7 +5886,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "roborabbit"
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
@@ -5982,7 +5982,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "robodog"
+          "value": "dog"
         },
         {
           "trait_type": "Legs",
@@ -6010,7 +6010,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "fly"
+          "value": "tentacle"
         },
         {
           "trait_type": "Eyes",
@@ -6318,7 +6318,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "fish"
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
@@ -6510,7 +6510,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "roboinsect"
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
@@ -6558,7 +6558,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "roborabbit"
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
@@ -6846,7 +6846,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutabird"
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
@@ -7062,7 +7062,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "roborabbit"
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
@@ -7134,7 +7134,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutarabbit"
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
@@ -7230,7 +7230,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "roborabbit"
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
@@ -7374,7 +7374,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutabot"
+          "value": "robot"
         },
         {
           "trait_type": "Legs",
@@ -7470,7 +7470,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutademon"
+          "value": "demon"
         },
         {
           "trait_type": "Legs",
@@ -7494,7 +7494,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "fish"
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
@@ -7566,7 +7566,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutarobot"
+          "value": "robot"
         },
         {
           "trait_type": "Legs",
@@ -7758,7 +7758,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "hyppo"
+          "value": "hippo"
         },
         {
           "trait_type": "Legs",
@@ -7926,7 +7926,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "roborabbit"
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
@@ -11718,7 +11718,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutant"
+          "value": "dog"
         },
         {
           "trait_type": "Legs",
@@ -14430,7 +14430,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "monster"
+          "value": "beast"
         },
         {
           "trait_type": "Legs",
@@ -14694,7 +14694,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "bee"
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
@@ -14742,7 +14742,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "pigeon"
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
@@ -15822,7 +15822,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "2"
+          "value": "what"
         },
         {
           "trait_type": "Legs",
@@ -16062,7 +16062,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "bunny"
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
@@ -16518,7 +16518,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "bunny"
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
@@ -17094,7 +17094,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "bunny"
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
@@ -17598,7 +17598,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "pigeon"
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
@@ -17814,7 +17814,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "pigeon"
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
@@ -18174,7 +18174,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "hyppo"
+          "value": "hippo"
         },
         {
           "trait_type": "Legs",
@@ -19662,7 +19662,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "hyppo"
+          "value": "hippo"
         },
         {
           "trait_type": "Legs",
@@ -20190,7 +20190,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "mutant"
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
@@ -22230,7 +22230,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "lion"
+          "value": "panther"
         },
         {
           "trait_type": "Legs",
@@ -23478,7 +23478,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "robobird"
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
