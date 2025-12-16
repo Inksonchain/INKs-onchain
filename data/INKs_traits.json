@@ -8910,19 +8910,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mutant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "8"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -8934,19 +8934,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bull"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -8958,19 +8958,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bee"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -8982,19 +8982,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "robot"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9006,19 +9006,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "camel"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "8"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9030,19 +9030,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "antelope"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9054,19 +9054,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "what"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9078,19 +9078,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "beast"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9102,19 +9102,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "what"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9126,19 +9126,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9150,19 +9150,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "robot"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9174,19 +9174,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bee"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9198,19 +9198,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "beast"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9222,19 +9222,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "beast"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9246,19 +9246,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "nuclear"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9270,19 +9270,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "beast"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9294,19 +9294,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "beast"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "6"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9318,19 +9318,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "tribal"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9342,19 +9342,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "elemental"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9366,19 +9366,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "beast"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9390,19 +9390,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9414,19 +9414,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9438,19 +9438,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "platypus"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9462,19 +9462,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "elemental"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9486,19 +9486,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9510,19 +9510,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "wolf"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9534,19 +9534,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "monster"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9558,19 +9558,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9582,19 +9582,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "beast"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9606,19 +9606,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "wolf"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "5"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9630,19 +9630,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "horse"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9654,19 +9654,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "duck"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9678,19 +9678,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "antelope"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9702,19 +9702,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "demon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9726,19 +9726,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bear"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9750,19 +9750,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "tentacle"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9774,19 +9774,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "totem"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9798,19 +9798,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "monkey"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9822,19 +9822,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "tentacle"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9846,19 +9846,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "tentacle"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9870,19 +9870,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9894,19 +9894,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9918,19 +9918,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "tentacle"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9942,19 +9942,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cow"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9966,19 +9966,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mutant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -9990,19 +9990,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10014,19 +10014,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10038,19 +10038,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10062,19 +10062,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "goat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10086,19 +10086,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dino"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10110,19 +10110,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10134,19 +10134,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10158,19 +10158,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "turtle"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10182,19 +10182,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "plant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10206,19 +10206,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "plant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10230,19 +10230,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "snail"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10254,19 +10254,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "6"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "5"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10278,19 +10278,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "wolf"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10302,19 +10302,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "antelope"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10326,19 +10326,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "duck"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "10"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10350,19 +10350,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "antelope"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10374,19 +10374,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "5"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10398,19 +10398,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dino"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10422,19 +10422,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "monster"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10446,19 +10446,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "monkey"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10470,19 +10470,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dino"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10494,19 +10494,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "demon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10518,19 +10518,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bull"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10542,19 +10542,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "snail"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10566,19 +10566,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dino"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10590,19 +10590,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10614,19 +10614,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "antelope"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10638,19 +10638,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "horse"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "5"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10662,19 +10662,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "monkey"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10686,19 +10686,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "lizard"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": ""5
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10710,19 +10710,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "platypus"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10734,19 +10734,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "antelope"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10758,19 +10758,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "7"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10782,19 +10782,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "tentacle"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10806,19 +10806,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mouse"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10830,19 +10830,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10854,19 +10854,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bull"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10878,19 +10878,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "5"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10902,19 +10902,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dog"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10926,19 +10926,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bull"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10950,19 +10950,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "turtle"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10974,19 +10974,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "plant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -10998,19 +10998,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "tentacle"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11022,19 +11022,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "robot"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11046,19 +11046,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11070,19 +11070,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "what"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11094,19 +11094,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "demon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11118,19 +11118,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "beast"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11142,19 +11142,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "plant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "6"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11166,19 +11166,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "plant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11190,19 +11190,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "goat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11214,19 +11214,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "totem"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11238,19 +11238,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mutant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11262,19 +11262,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bee"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11286,19 +11286,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "tentacle"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11310,19 +11310,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "demon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11334,19 +11334,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "plant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11358,19 +11358,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "demon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11382,19 +11382,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "demon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "6"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11406,19 +11406,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "demon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11430,19 +11430,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11454,19 +11454,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11478,19 +11478,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "lizard"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11502,19 +11502,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mutant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11526,19 +11526,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "plant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11550,19 +11550,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11574,19 +11574,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11598,19 +11598,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mutant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11622,19 +11622,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11646,19 +11646,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11670,19 +11670,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11694,19 +11694,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "elemental"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11718,19 +11718,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mutant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11742,19 +11742,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "hedgehog"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11766,19 +11766,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11790,19 +11790,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "monkey"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11814,19 +11814,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "deer"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11838,19 +11838,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bear"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11862,19 +11862,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "elemental"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11886,19 +11886,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "plant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11910,19 +11910,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "antelope"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "6"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11934,19 +11934,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "chicken"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11958,19 +11958,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "fox"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "6"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -11982,19 +11982,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bull"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12006,19 +12006,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12030,19 +12030,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "deer"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "5"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12054,19 +12054,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "8"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12078,19 +12078,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12102,19 +12102,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "pork"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12126,19 +12126,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "horse"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12150,19 +12150,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "pork"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12174,19 +12174,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12198,19 +12198,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dragon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12222,19 +12222,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "beaver"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12246,19 +12246,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "7"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12270,19 +12270,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "deer"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12294,19 +12294,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "tribal"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12318,19 +12318,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "plant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "5"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12342,19 +12342,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "deer"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12366,19 +12366,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "elemental"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12390,19 +12390,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "giraffe"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12414,19 +12414,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "plant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12438,19 +12438,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "6"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12462,19 +12462,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "elemental"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12486,19 +12486,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "beast"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12510,19 +12510,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12534,19 +12534,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "what"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12558,19 +12558,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "beast"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12582,19 +12582,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "panda"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12606,19 +12606,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "monster"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12630,19 +12630,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12654,19 +12654,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "monster"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12678,19 +12678,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "whale"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12702,19 +12702,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12726,19 +12726,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "12"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12750,19 +12750,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "chicken"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12774,19 +12774,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "chicken"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12798,19 +12798,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "tribal"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12822,19 +12822,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12846,19 +12846,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cow"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12870,19 +12870,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "shark"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12894,19 +12894,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12918,19 +12918,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "panther"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12942,19 +12942,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bear"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12966,19 +12966,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "what"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -12990,19 +12990,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "8"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13014,19 +13014,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cow"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13038,19 +13038,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mutant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13062,19 +13062,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bear"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13086,19 +13086,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "demon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13110,19 +13110,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "totem"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13134,19 +13134,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mushroom"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13158,19 +13158,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cow"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13182,19 +13182,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "beaver"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13206,19 +13206,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13230,19 +13230,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "what"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "5"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13254,19 +13254,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "antelope"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13278,19 +13278,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "fox"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "5"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13302,19 +13302,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "wolf"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13326,19 +13326,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "penguin"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13350,19 +13350,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13374,19 +13374,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "panda"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "6"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13398,19 +13398,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13422,19 +13422,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "elemental"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13446,19 +13446,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "elemental"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13470,19 +13470,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "snake"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13494,19 +13494,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "nuclear"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13518,19 +13518,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "robot"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13542,19 +13542,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "monster"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13566,19 +13566,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "llama"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13590,19 +13590,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bull"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13614,19 +13614,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "what"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "5"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "5"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13638,19 +13638,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "snake"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13662,19 +13662,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "plant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13686,19 +13686,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13710,19 +13710,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "panther"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13734,19 +13734,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "plant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13758,19 +13758,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dino"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13782,19 +13782,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "plant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "6"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13806,19 +13806,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "what"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13830,19 +13830,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dino"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13854,19 +13854,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "what"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13878,19 +13878,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "elemental"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13902,19 +13902,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13926,19 +13926,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "totem"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13950,19 +13950,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "10"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13974,19 +13974,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "6"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -13998,19 +13998,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "robot"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14022,19 +14022,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mouse"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "5"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14046,19 +14046,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "elephant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14070,19 +14070,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14094,19 +14094,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14118,19 +14118,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "fox"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14142,19 +14142,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sheep"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14166,19 +14166,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dino"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14190,19 +14190,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mutant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "6"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14214,19 +14214,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14238,19 +14238,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dog"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14266,15 +14266,15 @@
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14286,19 +14286,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "6"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14310,19 +14310,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bull"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14334,19 +14334,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14358,19 +14358,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "frog"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14382,19 +14382,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "turtle"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14406,19 +14406,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dino"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14430,19 +14430,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "monster"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14454,19 +14454,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "penguin"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14478,19 +14478,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bull"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14502,19 +14502,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "goat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14526,19 +14526,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "penguin"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14550,19 +14550,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "chicken"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14574,19 +14574,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mouse"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14598,19 +14598,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "rhino"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14622,19 +14622,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cow"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14646,19 +14646,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "worm"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "15"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14670,19 +14670,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dino"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14694,19 +14694,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bee"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14718,19 +14718,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "elemental"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14742,19 +14742,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "pigeon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14766,19 +14766,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bison"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14790,19 +14790,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "croc"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14814,19 +14814,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "monkey"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14838,19 +14838,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "croc"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14862,19 +14862,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "beast"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14886,19 +14886,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14910,19 +14910,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14934,19 +14934,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14958,19 +14958,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "lizard"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -14982,19 +14982,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bear"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15006,19 +15006,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "what"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15030,19 +15030,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "lizard"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "5"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15054,19 +15054,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "deer"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15078,19 +15078,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "monkey"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15102,19 +15102,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "goat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15126,19 +15126,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dog"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15150,19 +15150,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15174,19 +15174,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "beaver"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15198,19 +15198,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bear"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15222,19 +15222,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "tentacle"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15246,19 +15246,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dog"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15270,19 +15270,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bull"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15294,19 +15294,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15318,19 +15318,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "sea"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "tentacle"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15342,19 +15342,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "elemental"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15366,19 +15366,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "croc"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "5"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15390,19 +15390,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15414,19 +15414,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15438,19 +15438,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "wolf"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15462,19 +15462,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cow"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "8"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15486,19 +15486,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15510,19 +15510,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "panther"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15534,19 +15534,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "hippo"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15558,19 +15558,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "penguin"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15582,19 +15582,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15606,19 +15606,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "panda"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15630,19 +15630,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "antelope"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15654,19 +15654,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "monkey"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15678,19 +15678,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15702,19 +15702,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "penguin"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15726,19 +15726,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mutant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15750,19 +15750,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bee"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15774,19 +15774,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mutant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15798,19 +15798,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "panda"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15822,19 +15822,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15846,19 +15846,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "llama"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15870,19 +15870,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "deer"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15894,19 +15894,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "chicken"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15918,19 +15918,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "panda"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15942,19 +15942,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bee"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15966,19 +15966,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "robot"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -15990,19 +15990,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "pork"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16014,19 +16014,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "racoon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16038,19 +16038,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bear"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16062,19 +16062,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bunny"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16086,19 +16086,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "goat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16110,19 +16110,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16134,19 +16134,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "platypus"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16158,19 +16158,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "goat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16182,19 +16182,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "what"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "5"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16206,19 +16206,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16230,19 +16230,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "totem"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16254,19 +16254,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16278,19 +16278,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16302,19 +16302,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "croc"
         },
         {
-          "trait_type": "Legs",
+          "trait_typ4e": "Legs",
           "value": ""
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16326,19 +16326,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "horse"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16350,19 +16350,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "donkey"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16374,19 +16374,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "rabbit"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16398,19 +16398,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "wolf"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16422,19 +16422,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mutant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16446,19 +16446,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "plant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16470,19 +16470,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16494,19 +16494,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "what"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16518,19 +16518,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bunny"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16542,19 +16542,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "what"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16566,19 +16566,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "pork"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16590,19 +16590,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "monkey"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16614,19 +16614,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dino"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16638,19 +16638,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "duck"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16662,19 +16662,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16686,19 +16686,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "wolf"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16710,19 +16710,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "lion"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16734,19 +16734,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16758,19 +16758,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "shark"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16782,19 +16782,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16806,19 +16806,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "fox"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16830,19 +16830,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "shark"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16854,19 +16854,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "shark"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16878,19 +16878,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "shark"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16902,19 +16902,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "turtle"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16926,19 +16926,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "what"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16950,19 +16950,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "snake"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16974,19 +16974,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dino"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -16998,19 +16998,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "shark"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17022,19 +17022,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "whale"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17046,19 +17046,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "demon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17070,19 +17070,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "goat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17094,19 +17094,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bunny"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17118,19 +17118,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mutant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17142,19 +17142,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mouse"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17166,19 +17166,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "whale"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17190,19 +17190,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bull"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17214,19 +17214,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "goat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17238,19 +17238,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "hippo"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17262,19 +17262,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "turtle"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17286,19 +17286,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "nuclear"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17310,19 +17310,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "penguin"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17334,19 +17334,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "elemental"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17358,19 +17358,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17382,19 +17382,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17406,19 +17406,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "goat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17430,19 +17430,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "penguin"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17454,19 +17454,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "cow"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17478,19 +17478,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "demon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "9"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17502,19 +17502,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "elemental"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17526,19 +17526,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bull"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17550,19 +17550,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "wolf"
         },
         {
-          "trait_type": "Legs",
+          "trait_typ4e": "Legs",
           "value": ""
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17574,19 +17574,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bear"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17598,19 +17598,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "pigeon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17622,19 +17622,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "wolf"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17646,19 +17646,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "plant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17670,19 +17670,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "demon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17694,19 +17694,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "chicken"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17718,19 +17718,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mutant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17742,19 +17742,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "wolf"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17766,19 +17766,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "demon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17790,19 +17790,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17814,19 +17814,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "pigeon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17838,19 +17838,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "insect"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17862,19 +17862,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "monkey"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17886,19 +17886,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "llama"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17910,19 +17910,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "plant"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17934,19 +17934,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "racoon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17958,19 +17958,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bat"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -17982,19 +17982,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "deer"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -18006,19 +18006,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "racoon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -18030,19 +18030,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "pork"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -18054,19 +18054,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "deer"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "8"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -18078,19 +18078,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "mushroom"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -18102,19 +18102,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "bird"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "1"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -18126,19 +18126,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "wolf"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "3"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -18150,19 +18150,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "deer"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "4"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -18174,19 +18174,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "hyppo"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -18198,19 +18198,19 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "dragon"
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "7"
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "2"
         },
         {
           "trait_type": "Season",
-          "value": ""
+          "value": "2"
         }
       ]
     }
@@ -21750,7 +21750,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "tribal"
+          "value": "totem"
         },
         {
           "trait_type": "Legs",
@@ -22326,7 +22326,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "pig"
+          "value": "pork"
         },
         {
           "trait_type": "Legs",
