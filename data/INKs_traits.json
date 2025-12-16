@@ -20169,6 +20169,10 @@
           "value": "bison"
         },
         {
+          "trait_type": "legs",
+          "value": ""
+        },
+        {
           "trait_type": "eyes",
           "value": "2"
         },
@@ -20287,6 +20291,10 @@
         {
           "trait_type": "legs",
           "value": "2"
+        },
+        {
+          "trait_type": "eyes",
+          "value": ""
         },
         {
           "trait_type": "season",
@@ -20909,6 +20917,10 @@
           "value": "2"
         },
         {
+          "trait_type": "eyes",
+          "value": ""
+        },
+        {
           "trait_type": "season",
           "value": "2"
         }
@@ -21071,6 +21083,10 @@
         {
           "trait_type": "legs",
           "value": "2"
+        },
+        {
+          "trait_type": "eyes",
+          "value": ""
         },
         {
           "trait_type": "season",
