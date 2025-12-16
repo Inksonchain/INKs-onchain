@@ -82,7 +82,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -110,7 +110,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -130,7 +130,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -322,7 +322,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -538,7 +538,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -658,7 +658,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -730,7 +730,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -850,7 +850,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -922,7 +922,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -1114,7 +1114,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -1306,7 +1306,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -1618,7 +1618,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -1642,7 +1642,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -1738,7 +1738,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -2074,7 +2074,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -2098,7 +2098,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -2146,7 +2146,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -2458,7 +2458,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -2482,7 +2482,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -2554,7 +2554,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -2626,7 +2626,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -2674,7 +2674,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -2794,7 +2794,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -2914,7 +2914,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -3058,7 +3058,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -3250,7 +3250,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -3298,7 +3298,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -3346,7 +3346,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -3442,7 +3442,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -3706,7 +3706,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -3730,7 +3730,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -3898,7 +3898,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -3946,7 +3946,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -4114,7 +4114,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -4258,7 +4258,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -4402,7 +4402,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -4502,7 +4502,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -4642,7 +4642,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -4690,7 +4690,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -4714,7 +4714,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -4930,7 +4930,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -4978,7 +4978,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -5170,7 +5170,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -5194,7 +5194,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -5266,7 +5266,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -5338,7 +5338,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -5602,7 +5602,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -5962,7 +5962,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -6010,7 +6010,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -6058,7 +6058,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -6154,7 +6154,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -6226,7 +6226,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -6538,7 +6538,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -6566,7 +6566,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -6686,7 +6686,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -6706,7 +6706,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -6998,7 +6998,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -7474,7 +7474,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -7498,7 +7498,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -7618,7 +7618,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "Fly"
+          "value": "fly"
         },
         {
           "trait_type": "Eyes",
@@ -7834,7 +7834,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -8074,7 +8074,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -8146,7 +8146,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -8242,7 +8242,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -8410,7 +8410,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -8458,7 +8458,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -8750,7 +8750,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -8818,7 +8818,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -8938,7 +8938,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -9254,7 +9254,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -9490,7 +9490,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -9634,7 +9634,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -9730,7 +9730,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -9898,7 +9898,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -9994,7 +9994,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -10234,7 +10234,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -10378,7 +10378,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -10522,7 +10522,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -10546,7 +10546,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -10594,7 +10594,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -10690,7 +10690,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": ""5
+          "value": "5"
         },
         {
           "trait_type": "Eyes",
@@ -10814,7 +10814,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -10834,7 +10834,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -10858,7 +10858,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -10906,7 +10906,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -11270,7 +11270,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -11434,7 +11434,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -11506,7 +11506,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -11794,7 +11794,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -12014,7 +12014,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -12370,7 +12370,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -12586,7 +12586,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -12682,7 +12682,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -12730,7 +12730,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -13066,7 +13066,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -13262,7 +13262,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -13330,7 +13330,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -13378,7 +13378,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -13474,7 +13474,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -13502,7 +13502,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -13642,7 +13642,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -13858,7 +13858,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -14098,7 +14098,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -14338,7 +14338,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -14458,7 +14458,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -14530,11 +14530,11 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -14750,7 +14750,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -14938,7 +14938,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -15058,7 +15058,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -15130,7 +15130,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -15250,7 +15250,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -15274,7 +15274,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -15446,7 +15446,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -15562,7 +15562,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -15610,7 +15610,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -15658,7 +15658,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -15706,7 +15706,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -15802,7 +15802,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -15922,7 +15922,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -15994,11 +15994,11 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -16066,7 +16066,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -16114,7 +16114,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -16186,7 +16186,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -16305,7 +16305,7 @@
           "value": "croc"
         },
         {
-          "trait_typ4e": "Legs",
+          "trait_type": "Legs",
           "value": ""
         },
         {
@@ -16330,7 +16330,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -16354,7 +16354,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -16378,7 +16378,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -16426,7 +16426,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -16738,7 +16738,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -16786,7 +16786,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -16954,7 +16954,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -17026,7 +17026,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -17170,7 +17170,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -17294,7 +17294,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -17314,7 +17314,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -17362,7 +17362,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -17434,7 +17434,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -17553,7 +17553,7 @@
           "value": "wolf"
         },
         {
-          "trait_typ4e": "Legs",
+          "trait_type": "Legs",
           "value": ""
         },
         {
@@ -17578,7 +17578,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -17890,7 +17890,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -17938,7 +17938,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -17986,7 +17986,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -18034,7 +18034,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -18538,7 +18538,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -18634,7 +18634,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -18806,7 +18806,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -18830,7 +18830,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -18994,11 +18994,11 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -19354,7 +19354,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -19382,7 +19382,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -19574,7 +19574,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -20169,7 +20169,7 @@
           "value": "bison"
         },
         {
-          "trait_typ4e": "Legs",
+          "trait_type": "Legs",
           "value": ""
         },
         {
@@ -20293,7 +20293,7 @@
           "value": "2"
         },
         {
-          "trait_typ2e": "Eyes",
+          "trait_type": "Eyes",
           "value": ""
         },
         {
@@ -20434,7 +20434,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -20506,7 +20506,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -20630,7 +20630,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -20698,7 +20698,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -20722,7 +20722,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -20917,7 +20917,7 @@
           "value": "2"
         },
         {
-          "trait_typ2e": "Eyes",
+          "trait_type": "Eyes",
           "value": ""
         },
         {
@@ -20986,7 +20986,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -21014,7 +21014,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -21085,7 +21085,7 @@
           "value": "2"
         },
         {
-          "trait_typ2e": "Eyes",
+          "trait_type": "Eyes",
           "value": ""
         },
         {
@@ -21370,7 +21370,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -21394,7 +21394,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -21466,7 +21466,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -21514,7 +21514,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -21610,7 +21610,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -21658,7 +21658,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -21686,7 +21686,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -21706,7 +21706,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -21826,7 +21826,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -21850,7 +21850,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -21922,7 +21922,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -22406,7 +22406,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -22526,7 +22526,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -22594,7 +22594,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -22622,7 +22622,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -22814,7 +22814,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -23050,7 +23050,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -23074,7 +23074,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -23174,7 +23174,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Season",
@@ -23194,7 +23194,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -23290,7 +23290,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -23338,7 +23338,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -23434,7 +23434,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -23770,7 +23770,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "undefined"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
@@ -23794,7 +23794,7 @@
         },
         {
           "trait_type": "Legs",
-          "value": "0"
+          "value": ""
         },
         {
           "trait_type": "Eyes",
