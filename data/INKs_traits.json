@@ -15222,7 +15222,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "sea"
+          "value": ""
         },
         {
           "trait_type": "Legs",
@@ -15918,11 +15918,11 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": "panda"
+          "value": ""
         },
         {
           "trait_type": "Legs",
-          "value": ""
+          "value": "0"
         },
         {
           "trait_type": "Eyes",
