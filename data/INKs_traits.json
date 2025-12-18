@@ -15918,7 +15918,7 @@
       "attributes": [
         {
           "trait_type": "Shape",
-          "value": ""
+          "value": "panda"
         },
         {
           "trait_type": "Legs",
@@ -15926,7 +15926,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "4"
+          "value": "2"
         },
         {
           "trait_type": "Season",
