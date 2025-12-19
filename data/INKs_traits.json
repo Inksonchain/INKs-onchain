@@ -158,7 +158,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": ""
+          "value": "undefined"
         },
         {
           "trait_type": "Season",
@@ -166,15 +166,15 @@
         },
         {
           "trait_type": "solana",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "base",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "merch",
-          "value": "off"
+          "value": "on"
         }
       ]
     }
