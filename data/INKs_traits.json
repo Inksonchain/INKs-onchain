@@ -1210,11 +1210,11 @@
         },
         {
           "trait_type": "solana",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "base",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "merch",
@@ -2946,7 +2946,7 @@
         },
         {
           "trait_type": "merch",
-          "value": "off"
+          "value": "on"
         }
       ]
     }
@@ -4134,7 +4134,7 @@
         },
         {
           "trait_type": "merch",
-          "value": "off"
+          "value": "on"
         }
       ]
     }
@@ -6614,7 +6614,7 @@
         },
         {
           "trait_type": "base",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "merch",
@@ -10030,7 +10030,7 @@
         },
         {
           "trait_type": "solana",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "base",
@@ -11254,7 +11254,7 @@
         },
         {
           "trait_type": "solana",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "base",
@@ -11470,7 +11470,7 @@
         },
         {
           "trait_type": "solana",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "base",
@@ -11542,7 +11542,7 @@
         },
         {
           "trait_type": "solana",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "base",
@@ -14710,7 +14710,7 @@
         },
         {
           "trait_type": "solana",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "base",
@@ -17914,7 +17914,7 @@
         },
         {
           "trait_type": "solana",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "base",
@@ -19318,7 +19318,7 @@
         },
         {
           "trait_type": "solana",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "base",
@@ -20290,7 +20290,7 @@
         },
         {
           "trait_type": "solana",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "base",
@@ -20726,7 +20726,7 @@
         },
         {
           "trait_type": "base",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "merch",
@@ -21482,7 +21482,7 @@
         },
         {
           "trait_type": "base",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "merch",
@@ -31490,7 +31490,7 @@
         },
         {
           "trait_type": "base",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "merch",
@@ -32998,7 +32998,7 @@
         },
         {
           "trait_type": "solana",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "base",
@@ -33322,7 +33322,7 @@
         },
         {
           "trait_type": "solana",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "base",
@@ -33718,7 +33718,7 @@
         },
         {
           "trait_type": "solana",
-          "value": "off"
+          "value": "on"
         },
         {
           "trait_type": "base",
