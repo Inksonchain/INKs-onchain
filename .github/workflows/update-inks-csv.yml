@@ -1,0 +1,43 @@
+name: Update INKS.csv from Google Sheets
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # 02:00 UTC (~03:00 Italia)
+  workflow_dispatch: {}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download CSV export from Google Sheets
+        run: |
+          set -euo pipefail
+          SHEET_ID="19bcurm3eDIGvJ1oV8IrI6eK01gCfYRxumZQKV8lqwbU"
+
+          mkdir -p data
+          curl -L --fail \
+            "https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv" \
+            -o data/INKS.csv
+
+          test -s data/INKS.csv
+          head -n 1 data/INKS.csv > /dev/null
+
+      - name: Commit & push if changed
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add data/INKS.csv
+
+          if git diff --staged --quiet; then
+            echo "No changes in data/INKS.csv"
+            exit 0
+          fi
+
+          git commit -m "chore(data): auto-update INKS.csv from Google Sheets"
+          git push
