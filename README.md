@@ -9,7 +9,7 @@ Each INK is:
 
 - **Inscribed on Bitcoin Ordinals** (immutable, on-chain)
 - Optimized under **40kb** per inscription
-- Linked to a dynamic **HTML menu** that allows background and style customization
+- Linked to a dynamic **HTML menu** that allows background and style customization on chain
 
 ## 📁 Repository Structure
 
@@ -17,12 +17,14 @@ Each INK is:
 - (more files coming soon: gallery, scripts, assets…)
 
 ## 🌐 Official Links
-
-- Linktree: https://linktr.ee/inksonchain  
-- Website: https://www.doctorgmadlab.com/inks  
-- Marketplaces: Trio, Magic Eden, Gamma (linked from the Linktree above)
+  
+- Website: https://www.inksonchain.xyz
+- Trio Marketplace: https://www.trio.xyz/collections/inks
+- Inks Merch: https://inks-store.hoplix.shop/
+- Inks Lab on Drip: https://drip.haus/inksonchain
+- Inks Lab on Base: https://opensea.io/collection/inks-on-base
+- Inkers on Eth: https://opensea.io/collection/inkerscollection
 
 ## 🔐 Licensing
 
-Unless otherwise stated, this collection follows the licensing terms published on the official website.  
-If you introduce a specific license (e.g. CC0 or custom INKs license), describe it here.
+Unless otherwise stated, this collection follows the licensing terms published on the official website. 
