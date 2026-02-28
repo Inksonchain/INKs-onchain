@@ -1,6 +1,6 @@
 # INKs — On-Chain Collection by @giggiart
 
-This repository contains the **official metadata** for **INKs**, a digital art collection by **Luigi Danese / Doctor-G / @giggiart**, permanently stored on **Bitcoin Ordinals**.
+This repository contains the **official metadata** for **INKs**, a digital art collection by @giggiart, permanently stored on **Bitcoin Ordinals**.
 
 ## 🧬 What is INKs?
 
