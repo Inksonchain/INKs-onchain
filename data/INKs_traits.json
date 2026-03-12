@@ -3882,7 +3882,7 @@
         },
         {
           "trait_type": "merch",
-          "value": "off"
+          "value": "on"
         }
       ]
     }
@@ -20406,7 +20406,7 @@
         },
         {
           "trait_type": "merch",
-          "value": "off"
+          "value": "on"
         }
       ]
     }
