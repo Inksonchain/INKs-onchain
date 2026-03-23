@@ -9,7 +9,7 @@ Each INK is:
 
 - **Inscribed on Bitcoin Ordinals** 
 - Optimized under **40kb** per inscription
-- Linked to a dynamic **HTML menu** that allows background and style customization on chain
+- Inscribed together with dynamic **HTML menu** that allows background and style customization on chain
 
 ## 🌐 Official Links
   
