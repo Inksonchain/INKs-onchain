@@ -1,4 +1,4 @@
-# INKs — On-Chain Collection by @giggiart
+# INKs Onchain
 
 This repository contains the **official metadata** for **INKs**, a digital art collection by @giggiart, permanently stored on **Bitcoin Ordinals**.
 
@@ -8,14 +8,20 @@ INKs is the fusion between **human effort** and **technological innovation**.
 Each INK is:
 
 - **Inscribed on Bitcoin Ordinals** 
-- Optimized under **40kb** per inscription
-- Inscribed together with dynamic **HTML menu** that allows background and style customization on chain
+- 100% handmade
+- Customizable onchain
+- The root for a world of Utilities
 
 ## 🌐 Official Links
   
-- Website: https://www.inksonchain.xyz
-- Trio Marketplace: https://www.trio.xyz/collections/inks
-- Inks Merch: https://inks-store.hoplix.shop/
-- Inks Lab on Drip: https://drip.haus/inksonchain
-- Inks Lab on Base: https://opensea.io/collection/inks-on-base
-- Inkers on Eth: https://opensea.io/collection/inkerscollection
+- Website: https://www.inksonchain.art
+- Stake: https://stakit.com/?referral=inksonchain
+  
+- Trio: https://www.trio.xyz/collections/inks
+- SatFlow: https://www.satflow.com/ordinals/inks 
+- Gamma: https://gamma.io/ordinals/collections/inks/items
+- BestinSlot: https://bestinslot.xyz/ordinals/collections/inks
+
+- Store: https://inks-store.hoplix.shop/
+- Drip: https://drip.haus/inksonchain
+- Base: https://opensea.io/collection/inks-on-base
