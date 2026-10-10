@@ -19,6 +19,7 @@ import { randomBytes, createHash } from "crypto";
 const CHALLENGES = "InksAuthChallenges";
 const SESSIONS = "InksAuthSessions";
 const CHALLENGE_CLAIMS = "InksAuthChallengeClaims";
+const RATE_LIMITS = "InksAuthRateLimits";
 const CHALLENGE_TTL_MS = 5 * 60 * 1000;
 const SESSION_TTL_MS = 30 * 60 * 1000;
 const REGISTRY_URL =
@@ -35,10 +36,11 @@ function sha256(value) {
 }
 
 function validBitcoinAddress(address) {
+  // This login flow supports Bitcoin mainnet Taproot/Ordinals addresses only.
   return typeof address === "string" &&
-    address.length >= 14 &&
-    address.length <= 90 &&
-    /^(bc1|[13])[a-zA-HJ-NP-Z0-9]+$/.test(address);
+    address.length >= 58 &&
+    address.length <= 64 &&
+    /^bc1p[023456789acdefghjklmnpqrstuvwxyz]+$/.test(address);
 }
 
 async function getRegistryIds() {
@@ -94,6 +96,18 @@ export const createWalletChallenge = webMethod(
     if (!validBitcoinAddress(address)) {
       throw new Error("Indirizzo Bitcoin non valido.");
     }
+    // One challenge per address per minute. Unique CMS _id prevents concurrent duplicates.
+    const minuteBucket = Math.floor(Date.now() / 60000);
+    const rateLimitId = sha256(address + ":" + minuteBucket);
+    try {
+      await wixData.insert(RATE_LIMITS, {
+        _id: rateLimitId,
+        createdAt: new Date(),
+      }, { suppressAuth: true });
+    } catch (_) {
+      throw new Error("Hai richiesto una verifica da poco. Attendi un minuto e riprova.");
+    }
+
     const nonce = randomHex(24);
     const id = randomHex(16);
     const issuedAt = new Date();
