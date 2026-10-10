@@ -1,44 +1,57 @@
-# INKs-onChain — Wix Ordinals Login
+# INKs-onChain — Wix Ordinals-gated login
 
-This folder contains the first Wix Velo integration draft for a holder-gated private area. It is intentionally separate from the collection metadata under `data/`.
+This folder contains a Wix Velo integration draft for holder-gated access.
 
-## Flow
+## Files
 
-1. Connect Xverse or UniSat on the Wix page and obtain a Bitcoin address.
-2. Call `createWalletChallenge(address)`.
-3. Ask the wallet to sign the returned `message` using BIP-322 simple signing.
-4. Send `{ challengeId, signature }` to `verifyWalletAndCreateSession`.
-5. Keep the returned session token in session-only browser memory/storage; call `getPrivateAreaStatus(token)` before showing the private area and before any future form submission.
-6. Call `revokeWalletSession(token)` on logout.
+- `backend/inksAuth.web.js`: backend challenge, BIP-322 verification, live ownership check and session methods.
+- `pages/area-inks.js`: Wix page code for Xverse/UniSat wallet connection and the future private-area placeholder.
 
-No transaction is requested. Never ask for a seed phrase or private key.
+## Security model
+
+- A wallet must sign a short-lived, one-time challenge. No seed phrase, private key, PSBT, or transaction is requested.
+- The backend verifies the BIP-322 signature and checks current ownership of at least one inscription ID from the canonical `data/INKs_traits.json` registry.
+- The private-area status call repeats the live ownership check. Fail closed if the indexer or signature verification fails.
+- Session token is opaque, expires in 30 minutes, and only its SHA-256 hash is stored in the CMS. Frontend code holds the raw token in memory only; refresh requires a new login.
+- CMS collections must have Admin-only permissions. Never expose these collections directly to the browser.
+- Any future form submission must be a backend web method that revalidates the session and ownership immediately before saving the form data.
 
 ## Install in Wix
 
-1. In Wix Velo, create a backend web module named `inksAuth.web.js` and paste `backend/inksAuth.web.js`.
-2. Install the npm package `bip322-js` in Wix Package Manager. Its current package API exposes `Verifier.verifySignature(address, message, signature)`; verify package compatibility in Wix's current Node runtime before publishing.
-3. Create two CMS collections with **Admin-only permissions**:
+1. In Wix Velo, create backend web module `backend/inksAuth.web.js` and copy the corresponding file from this repository.
+2. Add a Wix page at `/area-inks`. Add page elements with IDs:
+   - `#connectXverse` (button)
+   - `#connectUnisat` (button)
+   - `#logoutButton` (button)
+   - `#statusText` (text)
+   - `#privateArea` (container/box, initially collapsed)
+3. Paste `pages/area-inks.js` into the page's Velo code.
+4. Add `sats-connect` and `bip322-js` using Wix's package manager, then confirm compatibility with the currently supported Wix runtime.
+5. Create the CMS collections `InksAuthChallenges` and `InksAuthSessions`. Grant Admin-only permissions:
    - `InksAuthChallenges`: `address` (text), `message` (text), `expiresAt` (date/time), `used` (boolean).
    - `InksAuthSessions`: `tokenHash` (text), `address` (text), `expiresAt` (date/time), `createdAt` (date/time).
-   The code supplies `_id` for challenges. Do not grant public read/write permissions to either collection.
-4. Add a Wix page named `/area-inks` with connect-wallet buttons and a private-area container. Import methods from `backend/inksAuth.web`.
-5. Use wallet SDK APIs from the currently supported Xverse/Sats Connect version and UniSat provider. The wallet adapter must return the exact address that will sign the challenge and the base64 BIP-322 signature. Do not assume every wallet address type supports the same signing method.
-6. Test with a holder and non-holder wallet on a Wix test site before publishing.
+6. Test on a Wix test site before publishing.
+
+## Wallet support notes
+
+- Xverse uses Sats Connect's `getAddresses` with `AddressPurpose.Ordinals` and `signMessage` with `protocol: "BIP322"`.
+- UniSat uses `requestAccounts()` and `signMessage(message, "bip322-simple")`.
+- Wallet SDK responses can change; verify response shapes against the installed versions. The code intentionally checks the returned signing address for Xverse.
+- The page is only an example integration and has not been run in your Wix site. Do not publish until both wallets pass end-to-end tests.
 
 ## Current ownership lookup
 
-The code reads the canonical inscription IDs from
+The backend reads inscription IDs from
 `https://raw.githubusercontent.com/Inksonchain/INKs-onchain/main/data/INKs_traits.json`
-and compares them against live owner addresses returned by the Ordinals indexer at `https://ordinals.com/inscriptions`. The JSON supplies collection membership/traits, **not ownership**.
+and queries the Ordinals API batch endpoint `POST https://ordinals.com/inscriptions`, which returns inscription detail objects including the current `address`. The metadata registry is not treated as proof of ownership.
 
-This is a minimal initial indexer adapter, not a high-volume production indexer. It requests inscription batches and can be slow for a large collection; if the public indexer rejects batch requests or is unavailable, the check fails closed. For production, replace this adapter with a supported, authenticated Ordinals API and keep its API key in Wix Secrets Manager. Test the exact API response and current ownership semantics before launch.
+For a larger collection, the current design makes multiple batch requests on each ownership recheck and can be slow. Before production, use a tested Ordinals indexer with documented rate limits and, if needed, store its API key in Wix Secrets Manager. If the provider returns errors or an unexpected response, access is denied.
 
-## Important security / production checklist
+## Production hardening required
 
-- This source has not been executed inside Wix; validate the Node built-in `crypto` import and `bip322-js` dependency against the Wix runtime.
-- Add rate limiting and cleanup of expired challenges/sessions.
-- The challenge is single-use and short-lived; the signature is verified server-side.
-- The session token is opaque; only its SHA-256 hash is stored in the CMS. It expires after 30 minutes.
-- Ownership is rechecked for every protected request. If the indexer fails, access is denied temporarily.
-- Do not put protected form data in frontend code or in a publicly readable CMS collection. Implement future form submission as a backend web method that validates the session and holder status again.
-- Wallet-specific frontend signing adapters and the visual page are intentionally not included yet; these must be wired to the exact Xverse and UniSat SDK versions used by the site.
+- Test BIP-322 verification using real signatures from both wallet types, including wrong-address, altered-message, expired-challenge and replay cases.
+- Test current owner address behavior after a transfer and with a wallet that owns no INKs.
+- Add rate limiting / abuse protection for challenge creation and verification.
+- Add automatic cleanup of expired challenge and session records.
+- Confirm Wix's Node runtime supports the `crypto` and `bip322-js` usage in the backend module.
+- Keep private form data server-side; do not rely on merely hiding a Wix element or redirecting to a secret URL.
