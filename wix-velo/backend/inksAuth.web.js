@@ -5,6 +5,7 @@
  * Create backend-only CMS collections:
  *   InksAuthChallenges: _id, address, message, expiresAt, used
  *   InksAuthSessions:   _id, tokenHash, address, expiresAt, createdAt
+ *   InksAuthChallengeClaims: _id (challengeId), claimedAt
  *
  * Fail closed: if signature verification, metadata retrieval, or Ordinals
  * ownership lookup fails, authentication is denied.
@@ -17,10 +18,11 @@ import { randomBytes, createHash } from "crypto";
 
 const CHALLENGES = "InksAuthChallenges";
 const SESSIONS = "InksAuthSessions";
+const CHALLENGE_CLAIMS = "InksAuthChallengeClaims";
 const CHALLENGE_TTL_MS = 5 * 60 * 1000;
 const SESSION_TTL_MS = 30 * 60 * 1000;
 const REGISTRY_URL =
-  "https://raw.githubusercontent.com/Inksonchain/INKs-onchain/main/data/INKs_traits.json";
+  "https://raw.githubusercontent.com/Inksonchain/INKs-onchain/cd634d023be8f934d36e975f0d064e3a7675a2ac/data/INKs_traits.json";
 const ORDINALS_BATCH_URL = "https://ordinals.com/inscriptions";
 const BATCH_SIZE = 40;
 
@@ -134,7 +136,18 @@ export const verifyWalletAndCreateSession = webMethod(
       throw new Error("Challenge scaduta o già utilizzata. Riprova.");
     }
 
-    // Consume before verification to prevent replay/race reuse.
+    // Atomically claim the random challenge ID using a separate collection
+    // whose _id is unique. This prevents two concurrent requests from both
+    // passing a read-then-update check. Collection permissions must be Admin-only.
+    try {
+      await wixData.insert(CHALLENGE_CLAIMS, {
+        _id: challengeId,
+        claimedAt: new Date(),
+      }, { suppressAuth: true });
+    } catch (_) {
+      throw new Error("Challenge già utilizzata. Riprova.");
+    }
+
     await wixData.update(CHALLENGES, {
       ...challenge,
       used: true,
