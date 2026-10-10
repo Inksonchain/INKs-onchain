@@ -22,6 +22,7 @@ This is an integration draft, not a production-certified authentication system.
 4. Create these CMS collections, with Admin-only permissions:
    - InksAuthChallenges: address (text), message (text), expiresAt (date/time), used (boolean).
    - InksAuthChallengeClaims: claimedAt (date/time). The backend sets _id to the challenge ID.
+   - InksAuthRateLimits: createdAt (date/time). Admin-only; backend creates a unique bucket per address/minute.
    - InksAuthSessions: tokenHash (text), address (text), expiresAt (date/time), createdAt (date/time).
 5. Deploy first to a Wix test site, never directly to the live site.
 
@@ -32,7 +33,7 @@ This is an integration draft, not a production-certified authentication system.
 - The frontend is an integration example and has not been executed in the user's Wix environment. Do not publish before end-to-end tests.
 
 ## Ownership indexer — production blocker
-The backend currently attempts a batch request to POST https://ordinals.com/inscriptions. Do not assume this endpoint, request body, response schema, or owner-address semantics are stable without testing against the live service. If the endpoint does not support this exact request, the code should fail closed (deny login). Before production, replace this adapter with a documented and tested Ordinals indexer API, confirm it returns the current controlling address for each inscription, and keep any API key in Wix Secrets Manager. Never accept a client-supplied ownership claim.
+The backend uses the documented batch endpoint POST https://ordinals.com/inscriptions with a JSON array of inscription IDs. The Ordinal Theory Handbook documents this endpoint and response objects containing an address field. See https://docs.ordinals.com/guides/api.html. This still needs an end-to-end live test against the public ordinals.com service and the exact Wix runtime before launch. If the service does not support the request or returns an unexpected schema, the code fails closed (denies login). Confirm the returned address represents the current controlling address for each inscription; for production, a dedicated indexer with documented availability/rate limits may be preferable. Never accept a client-supplied ownership claim.
 
 The registry is fetched from:
 https://raw.githubusercontent.com/Inksonchain/INKs-onchain/cd634d023be8f934d36e975f0d064e3a7675a2ac/data/INKs_traits.json
@@ -43,7 +44,7 @@ https://raw.githubusercontent.com/Inksonchain/INKs-onchain/cd634d023be8f934d36e9
 - Parallel replay of the same challenge yields at most one successful verification.
 - Transfer the inscription to a different address and confirm the old owner loses access on the next protected check.
 - Indexer outage, timeout, unexpected schema, and registry failure all deny access.
-- Check rate limits on challenge creation and signature verification; add server-side throttling before launch.
+- Challenge creation is limited to one per address per minute through a unique CMS bucket. Add edge/IP-based throttling as additional protection; this per-address limit alone is not a complete anti-abuse system.
 - Clean up expired challenges, claims, and sessions on a schedule.
 - Confirm Wix supports the crypto imports and bip322-js in its backend runtime.
 - Any future form submission must be a backend method that checks session, current ownership, field validation, and abuse limits before storing data. Hiding a Wix element is not authorization.
