@@ -1,28 +1,32 @@
 {
-  "updatedAt": null,
-  "feedVersion": 1,
-  "note": "Automated feed. Null values mean no reliable public value was extracted.",
+  "updatedAt": "2026-10-12T13:28:06.966460+00:00",
   "marketplaces": {
     "satflow": {
+      "status": "partial",
       "source": "https://www.satflow.com/ordinals/inks",
-      "status": "pending",
       "floor": null,
-      "listed": null,
-      "volume": null
+      "listed": 50,
+      "volume": null,
+      "checkedAt": "2026-10-12T13:28:08.257102+00:00"
     },
     "ordnet": {
+      "status": "partial",
       "source": "https://ord.net/collection/inks",
-      "status": "pending",
       "floor": null,
-      "listed": null,
-      "volume": null
+      "listed": 25,
+      "volume": null,
+      "checkedAt": "2026-10-12T13:28:10.102883+00:00"
     },
     "orddropz": {
+      "status": "unavailable",
       "source": "https://ord-dropz.xyz/secondary/collections/inks",
-      "status": "pending",
       "floor": null,
       "listed": null,
-      "volume": null
+      "volume": null,
+      "note": "No public stats found in page metadata; source may require API access or changed markup.",
+      "checkedAt": "2026-10-12T13:28:12.572356+00:00"
     }
-  }
+  },
+  "feedVersion": 1,
+  "note": "Values are scraped from public pages only; null means not publicly extractable."
 }
