@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "description": "Public INKs-onChain EVM contract addresses for read-only inspection.",
+  "contracts": [
+    {
+      "collection": "INKs Ethereum",
+      "chain": "ethereum",
+      "chainId": 1,
+      "address": "0xa45c8b84c3ce4d66b39b724e637fed71524eb52c",
+      "explorer": "https://etherscan.io/address/0xa45c8b84c3ce4d66b39b724e637fed71524eb52c"
+    },
+    {
+      "collection": "INKs Base",
+      "chain": "base",
+      "chainId": 8453,
+      "address": "0x68e65439772f6026bb2515d86e2146adc7470bf3",
+      "explorer": "https://basescan.org/address/0x68e65439772f6026bb2515d86e2146adc7470bf3"
+    }
+  ]
+}
