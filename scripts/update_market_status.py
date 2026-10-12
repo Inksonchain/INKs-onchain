@@ -83,6 +83,14 @@ def walk_json(value, found):
                     found.setdefault("owners_raw", val)
                 elif k in ("onedaychange", "change24h", "percentchange24h", "24hchange"):
                     found.setdefault("change24h_raw", val)
+                elif k in ("sevendaychange", "change7d", "percentchange7d", "7dchange"):
+                    found.setdefault("change7d_raw", val)
+                elif k in ("sevendayvolume", "volume7d", "7dvolume"):
+                    found.setdefault("volume7d_raw", val)
+                elif k in ("supply", "totalsupply", "collectionsize"):
+                    found.setdefault("supply_raw", val)
+                elif k in ("marketcap", "marketcapbtc", "marketcapitalization"):
+                    found.setdefault("marketcap_raw", val)
                 elif k in ("ownerpercent", "holderspercent", "ownershippercent"):
                     found.setdefault("owner_percent_raw", val)
                 elif k in ("currency", "symbol", "denomination"):
@@ -178,6 +186,10 @@ def parse_page(url):
     owners = clean_num(found.get("owners_raw"))
     owner_percent = clean_num(found.get("owner_percent_raw"))
     change24h = clean_num(found.get("change24h_raw"))
+    change7d = clean_num(found.get("change7d_raw"))
+    volume7d = found.get("volume7d_raw")
+    supply = clean_num(found.get("supply_raw"))
+    market_cap = clean_num(found.get("marketcap_raw"))
 
     result = {
         "status": "partial",
@@ -189,6 +201,11 @@ def parse_page(url):
         "volume": str(volume) if volume is not None else None,
         "volumeUnit": found.get("volume_currency", "BTC" if volume is not None and re.search(r"\bTotal\s+\d+\.\d+", text, re.I) else None),
         "change24h": change24h,
+        "change7d": change7d,
+        "volume7d": str(volume7d) if volume7d is not None else None,
+        "volume7dUnit": found.get("volume7d_currency"),
+        "supply": int(supply) if supply is not None else None,
+        "marketCap": market_cap,
         "owners": int(owners) if owners is not None else None,
         "ownerPercent": owner_percent,
         "checkedAt": datetime.now(timezone.utc).isoformat(),
@@ -198,7 +215,7 @@ def parse_page(url):
         currency = str(found.get("currency", "")).lower()
         result["floorUnit"] = "sats" if "sat" in currency or found.get("floor_inferred_from_listings") else ("BTC" if "btc" in currency or currency == "₿" else currency or None)
 
-    if any(result[k] is not None for k in ("floor", "listed", "volume", "change24h", "owners")):
+    if any(result[k] is not None for k in ("floor", "listed", "volume", "change24h", "change7d", "volume7d", "supply", "marketCap", "owners")):
         result["status"] = "partial" if any(result[k] is None for k in ("floor", "listed")) else "ok"
     else:
         result["status"] = "unavailable"
@@ -221,6 +238,8 @@ def main():
                 "status": "unavailable", "source": url, "floor": None,
                 "floorUnit": None, "floorDerived": False, "listed": None,
                 "volume": None, "volumeUnit": None, "change24h": None,
+                "change7d": None, "volume7d": None, "volume7dUnit": None,
+                "supply": None, "marketCap": None,
                 "owners": None, "ownerPercent": None,
                 "checkedAt": datetime.now(timezone.utc).isoformat(),
                 "note": str(exc)[:240],
