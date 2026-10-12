@@ -1,0 +1,28 @@
+{
+  "updatedAt": null,
+  "feedVersion": 1,
+  "note": "Automated feed. Null values mean no reliable public value was extracted.",
+  "marketplaces": {
+    "satflow": {
+      "source": "https://www.satflow.com/ordinals/inks",
+      "status": "pending",
+      "floor": null,
+      "listed": null,
+      "volume": null
+    },
+    "ordnet": {
+      "source": "https://ord.net/collection/inks",
+      "status": "pending",
+      "floor": null,
+      "listed": null,
+      "volume": null
+    },
+    "orddropz": {
+      "source": "https://ord-dropz.xyz/secondary/collections/inks",
+      "status": "pending",
+      "floor": null,
+      "listed": null,
+      "volume": null
+    }
+  }
+}
