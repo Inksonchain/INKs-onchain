@@ -77,7 +77,7 @@ def walk_json(value, found):
                     found.setdefault("floor_raw", val)
                 elif k in ("listedcount", "listed", "listingcount", "numberlisted", "listeditems"):
                     found.setdefault("listed_raw", val)
-                elif k in ("volume", "totalvolume", "volumeinbtc", "total", "totalbtc"):
+                elif k in ("volume", "totalvolume", "volumeinbtc", "totalbtc"):
                     found.setdefault("volume_raw", val)
                 elif k in ("ownercount", "owners", "collectorcount", "holders", "holdercount"):
                     found.setdefault("owners_raw", val)
