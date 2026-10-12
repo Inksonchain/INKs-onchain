@@ -5,28 +5,48 @@
       "status": "partial",
       "source": "https://www.satflow.com/ordinals/inks",
       "floor": null,
+      "floorUnit": null,
+      "floorDerived": false,
       "listed": 50,
       "volume": null,
-      "checkedAt": "2026-10-12T13:28:08.257102+00:00"
+      "volumeUnit": null,
+      "change24h": null,
+      "owners": null,
+      "ownerPercent": null,
+      "checkedAt": "2026-10-12T13:28:08.257102+00:00",
+      "note": "Values from previous successful scrape; refresh scheduled."
     },
     "ordnet": {
       "status": "partial",
       "source": "https://ord.net/collection/inks",
       "floor": null,
+      "floorUnit": null,
+      "floorDerived": false,
       "listed": 25,
       "volume": null,
-      "checkedAt": "2026-10-12T13:28:10.102883+00:00"
+      "volumeUnit": null,
+      "change24h": null,
+      "owners": null,
+      "ownerPercent": null,
+      "checkedAt": "2026-10-12T13:28:10.102883+00:00",
+      "note": "Values from previous successful scrape; refresh scheduled."
     },
     "orddropz": {
       "status": "unavailable",
       "source": "https://ord-dropz.xyz/secondary/collections/inks",
       "floor": null,
+      "floorUnit": null,
+      "floorDerived": false,
       "listed": null,
       "volume": null,
-      "note": "No public stats found in page metadata; source may require API access or changed markup.",
-      "checkedAt": "2026-10-12T13:28:12.572356+00:00"
+      "volumeUnit": null,
+      "change24h": null,
+      "owners": null,
+      "ownerPercent": null,
+      "checkedAt": "2026-10-12T13:28:12.572356+00:00",
+      "note": "No public stats found; source may require API access or changed markup."
     }
   },
-  "feedVersion": 1,
-  "note": "Values are scraped from public pages only; null means not publicly extractable."
+  "feedVersion": 2,
+  "note": "Publicly extracted stats only. Null means unavailable; floorDerived indicates a floor inferred from visible listing prices."
 }
