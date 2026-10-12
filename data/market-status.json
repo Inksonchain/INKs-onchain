@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T13:28:06.966460+00:00",
+  "updatedAt": "2026-10-12T13:34:52.921379+00:00",
   "marketplaces": {
     "satflow": {
       "status": "partial",
@@ -13,23 +13,21 @@
       "change24h": null,
       "owners": null,
       "ownerPercent": null,
-      "checkedAt": "2026-10-12T13:28:08.257102+00:00",
-      "note": "Values from previous successful scrape; refresh scheduled."
+      "checkedAt": "2026-10-12T13:34:53.157237+00:00"
     },
     "ordnet": {
-      "status": "partial",
+      "status": "ok",
       "source": "https://ord.net/collection/inks",
-      "floor": null,
-      "floorUnit": null,
-      "floorDerived": false,
+      "floor": 23000,
+      "floorUnit": "sats",
+      "floorDerived": true,
       "listed": 25,
-      "volume": null,
-      "volumeUnit": null,
+      "volume": "0.1636",
+      "volumeUnit": "BTC",
       "change24h": null,
-      "owners": null,
-      "ownerPercent": null,
-      "checkedAt": "2026-10-12T13:28:10.102883+00:00",
-      "note": "Values from previous successful scrape; refresh scheduled."
+      "owners": 251,
+      "ownerPercent": 25,
+      "checkedAt": "2026-10-12T13:34:54.812019+00:00"
     },
     "orddropz": {
       "status": "unavailable",
@@ -43,8 +41,8 @@
       "change24h": null,
       "owners": null,
       "ownerPercent": null,
-      "checkedAt": "2026-10-12T13:28:12.572356+00:00",
-      "note": "No public stats found; source may require API access or changed markup."
+      "checkedAt": "2026-10-12T13:34:55.956022+00:00",
+      "note": "No public extractable stats found; source may require authentication or its markup may have changed."
     }
   },
   "feedVersion": 2,
