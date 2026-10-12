@@ -16,12 +16,14 @@ Each INK is:
   
 - Website: https://www.inksonchain.art
 - Ordinals: https://ordinals.com/inscription/acdd7f3637f9d74b652fff32b4b6c347e52840d9a2273f1dcece515704c29966i0
-- Trio: https://www.trio.xyz/collections/inks
 - SatFlow: https://www.satflow.com/ordinals/inks 
 - Ord.net: https://ord.net/collection/inks
 - Ord-Dropz: https://ord-dropz.xyz/secondary/collections/inks
+  
 - BestinSlot: https://bestinslot.xyz/ordinals/collections/inks
 
-- Store: https://inks-store.hoplix.shop/
+DERIVATES:
+
+- Merch: https://inks-store.hoplix.shop/
 - Drip: https://drip.haus/inksonchain
 - Base: https://opensea.io/collection/inks-on-base
