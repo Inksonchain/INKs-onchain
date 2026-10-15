@@ -24,7 +24,7 @@
 (function(){
 'use strict';
 const REPO='https://raw.githubusercontent.com/Inksonchain/INKs-onchain/main/';
-const JSON_CANDIDATES=['inks_trait.json','INKs_trait.json','INKs_traits.json','inks_traits.json','data/inks_trait.json','data/INKs_traits.json','metadata/inks_trait.json','metadata/INKs_traits.json'];
+const JSON_CANDIDATES=['data/INKs_traits.json','inks_trait.json','INKs_trait.json','INKs_traits.json','inks_traits.json','data/inks_trait.json','metadata/inks_trait.json','metadata/INKs_traits.json'];
 const grid=document.getElementById('grid'), search=document.getElementById('search'), count=document.getElementById('count');
 const filters={shape:document.getElementById('filter-shape'),legs:document.getElementById('filter-legs'),eyes:document.getElementById('filter-eyes'),season:document.getElementById('filter-season')};
 const overlay=document.getElementById('overlay');let all=[],filtered=[],shown=0,active=0;const PAGE=40;
