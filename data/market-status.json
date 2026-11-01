@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T14:26:16.019701+00:00",
+  "updatedAt": "2026-11-01T19:02:03.284188+00:00",
   "marketplaces": {
     "satflow": {
       "status": "partial",
@@ -18,7 +18,7 @@
       "marketCap": null,
       "owners": null,
       "ownerPercent": null,
-      "checkedAt": "2026-11-01T14:26:16.517443+00:00"
+      "checkedAt": "2026-11-01T19:02:03.667977+00:00"
     },
     "ordnet": {
       "status": "ok",
@@ -26,8 +26,8 @@
       "floor": 23000,
       "floorUnit": "sats",
       "floorDerived": true,
-      "listed": 25,
-      "volume": "0.1636",
+      "listed": 24,
+      "volume": "0.1645",
       "volumeUnit": "BTC",
       "change24h": null,
       "change7d": null,
@@ -35,9 +35,9 @@
       "volume7dUnit": null,
       "supply": null,
       "marketCap": null,
-      "owners": 251,
+      "owners": 249,
       "ownerPercent": 25,
-      "checkedAt": "2026-11-01T14:26:18.546290+00:00"
+      "checkedAt": "2026-11-01T19:02:05.731649+00:00"
     },
     "orddropz": {
       "status": "unavailable",
@@ -56,7 +56,7 @@
       "marketCap": null,
       "owners": null,
       "ownerPercent": null,
-      "checkedAt": "2026-11-01T14:26:19.759865+00:00",
+      "checkedAt": "2026-11-01T19:02:06.932537+00:00",
       "note": "No public extractable stats found; source may require authentication or its markup may have changed."
     }
   },
