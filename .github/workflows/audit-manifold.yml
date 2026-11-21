@@ -1,0 +1,41 @@
+name: Read-only Manifold contract audit
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 6 * * 1"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: manifold-contract-audit
+  cancel-in-progress: true
+
+jobs:
+  inspect:
+    name: Inspect Ethereum and Base contracts
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate Python syntax
+        run: python -m py_compile scripts/inspect_manifold.py
+
+      - name: Run read-only contract inspection
+        run: python scripts/inspect_manifold.py
+
+      - name: Upload audit report
+        uses: actions/upload-artifact@v4
+        with:
+          name: manifold-contract-audit
+          path: data/contracts-audit.json
+          if-no-files-found: error
+          retention-days: 30
